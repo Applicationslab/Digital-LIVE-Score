@@ -1,11 +1,11 @@
 [{
-		"oneStadium": "http://www.khelshel.com/cms/filemanager/files/shares/NSK.jpg",
+		"oneStadium": "https://alchetron.com/cdn/bugti-stadium-78502874-b6e0-43c6-9616-599e340f03a-resize-750.jpeg",
 		"oneName": "Bugti Stadium",
 		"capacity": "Capacity: 34228",
 		"location": "Location: Karachi, Pakistan"
 	},
 	{
-		"oneStadium": "https://www.espncricinfo.com/inline/content/image/436068.html?alt=5",
+		"oneStadium": "https://p.imgci.com/db/PICTURES/CMS/110400/110408.5.jpg",
 		"oneName": "Gaddafi Stadium",
 		"capacity": "Capacity: 27,000",
 		"location": "Location: Lahore, Pakistan"
@@ -17,15 +17,9 @@
 		"location": "Location: Multan, Pakistan"
 	},
 	{
-		"oneStadium": "https://blogger.googleusercontent.com/img/a/AVvXsEiMuet9GK-xa86OcfAfLfxapeQ7kPIHZH0QOj9JpLa8MvhsnVOv5S02W_93SHI8Nud1wjWKCdJEm2J_qI1KMlTN89jcyR0LZEAdYGdSVwar7NoDE6Vf9rwMinkVu8cHn8vXqN5o4gmX6SzFYrfoOShM8RmeAX9YPe34bypEYJYrUdvozQpa47MfHR0d",
-		"oneName": "Peshawar Zalmi",
-		"capacity": "Capacity: 34228",
+		"oneStadium": "https://img.olympicchannel.com/images/image/private/t_16-9_360-203_2x/f_auto/v1538355600/primary/unouc9hjxq34d2qurea3",
+		"oneName": "National Stadium",
+		"capacity": "Capacity: 34,000",
 		"location": "Location: Karachi, Pakistan"
-	},
-	{
-		"oneStadium": "https://pslt2020.com/wp-content/uploads/2019/09/Rawalpindi-Cricket-Stadium.jpg",
-		"oneName": "Islamabad United",
-		"capacity": "Capacity: 15000",
-		"location": "Location: Rawalpindi, Pakistan"
 	}
 ]
