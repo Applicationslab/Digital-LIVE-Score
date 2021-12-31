@@ -1,0 +1,71 @@
+[{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170768/babar-azam.jpg",
+		"oneTeam": "Babar Azam",
+		"players": "Match: 58",
+		"caption": "Runs: 2070",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://ttensports.com/wp-content/uploads/2018/11/Kamran_Akmal.png",
+		"oneTeam": "Kamran Akmal",
+		"players": "Match: 69",
+		"caption": "Runs: 1820",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://i1.wp.com/www.psltoday.com/wp-content/uploads/2021/02/Shoaib-malik.png",
+		"oneTeam": "Shoaib Malik",
+		"players": "Match: 61",
+		"caption": "Runs: 1481",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c180329/shane-watson.jpg",
+		"oneTeam": "Shane Watson",
+		"players": "Match: 46",
+		"caption": "Runs: 1361",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170763/fakhar-zaman.jpg",
+		"oneTeam": "Fakhar Zaman",
+		"players": "Match: 50",
+		"caption": "Runs: 1351",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170776/mohammad-hafeez.jpg",
+		"oneTeam": "Mohammad Hafeez",
+		"players": "Match: 58",
+		"caption": "Runs: 1273",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170787/sarfaraz-ahmed.jpg",
+		"oneTeam": "Sarfaraz Ahmed",
+		"players": "Match: 62",
+		"caption": "Runs: 1189",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c157336/rilee-rossouw.jpg",
+		"oneTeam": "Rilee Rossouw",
+		"players": "Match: 52",
+		"caption": "Runs: 1139",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156794/ahmed-shehzad.jpg",
+		"oneTeam": "Ahmed Shehzad",
+		"players": "Match: 45",
+		"caption": "Runs: 1077",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c146398/luke-ronchi.jpg",
+		"oneTeam": "Luke Ronchi",
+		"players": "Match: 31",
+		"caption": "Runs: 1020",
+		"oneclick": ""
+	}
+]
