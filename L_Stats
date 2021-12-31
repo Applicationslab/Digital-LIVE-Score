@@ -5,17 +5,17 @@
 }, {
 	"oneImage": "https://www.dominic.de/img/telco-rev-icon.png",
 	"oneName": "High scores",
-	"oneclick": ""
+	"oneclick": "https://raw.githubusercontent.com/Applicationslab/Digital-LIVE-Score/main/L_High_Score"
 }, {
 	"oneImage": "https://cdn-icons-png.flaticon.com/512/194/194633.png",
 	"oneName": "Most ducks",
-	"oneclick": ""
+	"oneclick": "https://raw.githubusercontent.com/Applicationslab/Digital-LIVE-Score/main/L_Most_Duck"
 }, {
 	"oneImage": "https://cdn-icons-png.flaticon.com/128/3522/3522917.png",
 	"oneName": "Most sixes",
-	"oneclick": ""
+	"oneclick": "https://raw.githubusercontent.com/Applicationslab/Digital-LIVE-Score/main/L_Most_Six"
 }, {
 	"oneImage": "https://cdn.pixabay.com/photo/2017/07/27/12/13/signal-2545127_960_720.png",
 	"oneName": "Most wickets",
-	"oneclick": ""
+	"oneclick": "https://raw.githubusercontent.com/Applicationslab/Digital-LIVE-Score/main/L_Most_Wickets"
 }]
