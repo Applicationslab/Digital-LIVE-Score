@@ -1,0 +1,71 @@
+[{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155556/umar-akmal.jpg",
+		"oneTeam": "Kamran Akmal",
+		"players": "Fore: 197",
+		"caption": "Six: 84",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c180329/shane-watson.jpg",
+		"oneTeam": "Shane Watson",
+		"players": "Fore: 123",
+		"caption": "Six: 81",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://cdn.wisden.com/wp-content/uploads/2019/05/ASIF-ALI-e1558356039712.jpg",
+		"oneTeam": "Asif Ali",
+		"players": "Fore: 54",
+		"caption": "Six: 68",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155558/sharjeel-khan.jpg",
+		"oneTeam": "Sharjeel Khan",
+		"players": "Fore: 76",
+		"caption": "Six: 58",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://p.imgci.com/db/PICTURES/CMS/320400/320470.square.png",
+		"oneTeam": "Shoaib Malik",
+		"players": "Fore: 103",
+		"caption": "Six: 58",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170763/fakhar-zaman.jpg",
+		"oneTeam": "Fakhar Zaman",
+		"players": "Fore: 137",
+		"caption": "Six: 53",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170776/mohammad-hafeez.jpg",
+		"oneTeam": "Mohammad Hafeez",
+		"players": "Fore: 119",
+		"caption": "Six: 51",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c146398/luke-ronchi.jpg",
+		"oneTeam": "Luke Ronchi",
+		"players": "Fore: 116",
+		"caption": "Six: 50",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171071/kieron-pollard.jpg",
+		"oneTeam": "Kieron Pollard",
+		"players": "Fore: 48",
+		"caption": "Six: 44",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c157791/daren-sammy.jpg",
+		"oneTeam": "Daren Sammy",
+		"players": "Fore: 48",
+		"caption": "Six: 44",
+		"oneclick": ""
+	}
+]
