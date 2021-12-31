@@ -1,7 +1,7 @@
 [{
 	"oneImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Eo_circle_pink_letter-m.svg/1024px-Eo_circle_pink_letter-m.svg.png",
 	"oneName": "Most runs",
-	"oneclick": ""
+	"oneclick": "https://raw.githubusercontent.com/Applicationslab/Digital-LIVE-Score/main/L_Most_Runs"
 }, {
 	"oneImage": "https://www.dominic.de/img/telco-rev-icon.png",
 	"oneName": "High scores",
