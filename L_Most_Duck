@@ -1,0 +1,71 @@
+[{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155556/umar-akmal.jpg",
+		"oneTeam": "Kamran Akmal",
+		"players": "Match: 69",
+		"caption": "Duck: 8*",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170782/imad-wasim.jpg",
+		"oneTeam": "Imad Wasim",
+		"players": "Match: 59",
+		"caption": "Duck: 7",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c157370/cameron-delport.jpg",
+		"oneTeam": "Cameron Delport",
+		"players": "Match: 39",
+		"caption": "Duck: 6",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688792468-e1524055647193.jpg",
+		"oneTeam": "Wahab Riaz",
+		"players": "Match: 67",
+		"caption": "Duck: 6",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170779/shadab-khan.jpg",
+		"oneTeam": "Shadab Khan",
+		"players": "Match: 52",
+		"caption": "Duck: 6",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170768/babar-azam.jpg",
+		"oneTeam": "Babar Azam",
+		"players": "Match: 58",
+		"caption": "Duck: 6",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c146389/shahid-afridi.jpg",
+		"oneTeam": "Shahid Afridi",
+		"players": "Match: 50",
+		"caption": "Duck: 5",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155921/mohammad-irfan.jpg",
+		"oneTeam": "Mohammad Irfan",
+		"players": "Match: 21",
+		"caption": "Duck: 4",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170737/colin-munro.jpg",
+		"oneTeam": "Colin Munro",
+		"players": "Match: 23",
+		"caption": "Duck: 4",
+		"oneclick": ""
+	},
+	{
+		"oneImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c155808/sohail-khan.jpg",
+		"oneTeam": "Sohail Khan",
+		"players": "Match: 39",
+		"caption": "Duck: 4",
+		"oneclick": ""
+	}
+]
