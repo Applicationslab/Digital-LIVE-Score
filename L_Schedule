@@ -1,24 +1,4 @@
 [{
-		"oneTeam": "Peshawar Zalmi",
-		"twoTeam": "Islamabad United",
-		"oneImage": "https://ssl.gstatic.com/onebox/media/sports/logos/D95XWUkpoPaZIes4VFXQ5A_96x96.png",
-		"twoImage": "https://ssl.gstatic.com/onebox/media/sports/logos/UjuF1fHAm-g592HB0TTWuw_96x96.png",
-		"type": "Match: 5",
-		"date": "Jan 30, 09:30 AM",
-		"time": "View Details",
-		"url": "https://www.google.com/search?q=psl+live+score&oq=psl+&aqs=chrome.1.69i57j69i59l3j69i60l4.3284j0j9&sourceid=chrome&ie=UTF-8#sie=m;/g/11rk2nl3y_;5;/m/0h7qrz6;dt;fp;1;;"
-	},
-	{
-		"oneTeam": "Karachi Kings",
-		"twoTeam": "Lahore Qalandars",
-		"oneImage": "https://ssl.gstatic.com/onebox/media/sports/logos/Vd8aQMIGZWoA_7yVYUqgWA_96x96.png",
-		"twoImage": "https://ssl.gstatic.com/onebox/media/sports/logos/Y8DhCclNws0EB1HzlLqYpA_96x96.png",
-		"type": "Match: 6",
-		"date": "Jan 30, 02:30 PM",
-		"time": "View Details",
-		"url": ""
-	},
-	{
 		"oneTeam": "Quetta Gladiators",
 		"twoTeam": "Multan Sultans",
 		"oneImage": "https://ssl.gstatic.com/onebox/media/sports/logos/1bp2RLEuE9DJ0WQXJ3vHDA_96x96.png",
