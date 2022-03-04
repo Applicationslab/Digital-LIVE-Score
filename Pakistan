@@ -1,0 +1,91 @@
+[{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170768/babar-azam.jpg",
+		"oneTeam": "Babar Azam (C)",
+		"players": "Batsman",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/abdullah-shafique.jpg",
+		"oneTeam": "Abdullah Shafique",
+		"players": "Batsman",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c155814/azhar-ali.jpg",
+		"oneTeam": "Azhar Ali",
+		"players": "Batsman",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c155555/fawad-alam.jpg",
+		"oneTeam": "Fawad Alam",
+		"players": "Batsman",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170765/imam-ul-haq.jpg",
+		"oneTeam": "Imam-ul-Haq",
+		"players": "Batsman",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c155516/saud-shakeel.jpg",
+		"oneTeam": "Saud Shakeel",
+		"players": "Batting Allrounder",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/shan-masood.jpg",
+		"oneTeam": "Shan Masood",
+		"players": "Batting Allrounder",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/iftikhar-ahmed.jpg",
+		"oneTeam": "Iftikhar Ahmed",
+		"players": "Batting Allrounder",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/nauman-ali.jpg",
+		"oneTeam": "Nauman Ali",
+		"players": "Bowling Allrounder",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c216088/mohammad-wasim-jr.jpg",
+		"oneTeam": "Mohammad Wasim Jr",
+		"players": "Bowling Allrounder",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c202222/mohammad-rizwan.jpg",
+		"oneTeam": "Mohammad Rizwan",
+		"players": "WK-Batsman",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/sajid-khan.jpg",
+		"oneTeam": "Sajid Khan",
+		"players": "Bowler",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170802/shaheen-afridi.jpg",
+		"oneTeam": "Shaheen Afridi",
+		"players": "Bowler",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/zahid-mahmood.jpg",
+		"oneTeam": "Zahid Mahmood",
+		"players": "Bowler",
+		"caption": "Pakistan"
+	},
+	{
+		"oneImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c183063/naseem-shah.jpg",
+		"oneTeam": "Naseem Shah",
+		"players": "Bowler",
+		"caption": "Pakistan"
+	}
+]
