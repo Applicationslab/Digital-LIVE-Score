@@ -1,25 +1,13 @@
 [{
-		"oneStadium": "https://alchetron.com/cdn/bugti-stadium-78502874-b6e0-43c6-9616-599e340f03a-resize-750.jpeg",
-		"oneName": "Bugti Stadium",
-		"capacity": "Capacity: 34228",
-		"location": "Karachi, Pakistan"
+		"oneStadium": "https://www.sportsunfold.com/wp-content/uploads/2022/03/Galle-International.jpg",
+		"oneName": "Galle International Stadium",
+		"capacity": "Capacity: 35000",
+		"location": "Galle, Sri Lanka"
 	},
 	{
-		"oneStadium": "https://p.imgci.com/db/PICTURES/CMS/110400/110408.5.jpg",
-		"oneName": "Gaddafi Stadium",
-		"capacity": "Capacity: 27,000",
-		"location": "Lahore, Pakistan"
-	},
-	{
-		"oneStadium": "https://www.zerocric.com/wp-content/uploads/2020/01/Multan-Cricket-Stadium.jpg",
-		"oneName": "Multan Cricket Stadium",
-		"capacity": "Capacity: 30000",
-		"location": "Multan, Pakistan"
-	},
-	{
-		"oneStadium": "https://img.olympicchannel.com/images/image/private/t_16-9_360-203_2x/f_auto/v1538355600/primary/unouc9hjxq34d2qurea3",
-		"oneName": "National Stadium",
-		"capacity": "Capacity: 34,000",
-		"location": "Karachi, Pakistan"
+		"oneStadium": "https://www.sportsunfold.com/wp-content/uploads/2021/11/image-12.jpg",
+		"oneName": "R.Premadasa Stadium",
+		"capacity": "Capacity: 35,000",
+		"location": "Colombo, Sri Lanka"
 	}
 ]
