@@ -1,0 +1,64 @@
+[{
+		"oneImage": "https://cdn.countryflags.com/thumbs/australia/flag-button-round-250.png",
+		"oneTeam": "Australia",
+		"players": "Players: 18",
+		"caption": "Aaron Finch",
+		"oneclick": "https://www.cricbuzz.com/cricket-team/australia/4"
+	},
+	{
+		"oneImage": "https://cdn.countryflags.com/thumbs/pakistan/flag-3d-round-250.png",
+		"oneTeam": "Pakistan",
+		"players": "Players: 18",
+		"caption": "Babar Azam",
+		"oneclick": "https://www.cricbuzz.com/cricket-team/pakistan/3"
+	},
+	{
+		"oneImage": "https://flagdownload.com/wp-content/uploads/Flag_of_Bangladesh_Flat_Round-256x256.png",
+		"oneTeam": "Bangladesh",
+		"players": "Players: 18",
+		"caption": "Tamim Iqbal",
+		"oneclick": "https://www.cricbuzz.com/cricket-team/bangladesh/6"
+	},
+	{
+		"oneImage": "https://icon-library.com/images/india-flag-icon/india-flag-icon-14.jpg",
+		"oneTeam": "India",
+		"players": "Players: 18",
+		"caption": "Rohit Sharma",
+		"oneclick": "https://www.cricbuzz.com/cricket-team/india/2"
+	},
+	{
+		"oneImage": "http://assets.stickpng.com/images/580b585b2edbce24c47b2836.png",
+		"oneTeam": "England ",
+		"players": "Players: 18",
+		"caption": "Eoin Morgan",
+		"oneclick": "https://www.cricbuzz.com/cricket-team/england/9"
+	},
+	{
+		"oneImage": "https://aux2.iconspalace.com/uploads/333944959.png",
+		"oneTeam": "south africa",
+		"players": "Players: 18",
+		"caption": "Dean Elgar",
+		"oneclick": "https://www.cricbuzz.com/cricket-team/south-africa/11"
+	},
+	{
+		"oneImage": "https://taitongah.com.sg/wp-content/uploads/2020/11/sri-lanka-flag-round-icon-256.png",
+		"oneTeam": "Sri Lanka",
+		"players": "Players: 18",
+		"caption": "Dimuth Karunaratne",
+		"oneclick": "https://www.cricbuzz.com/cricket-team/sri-lanka/5"
+	},
+	{
+		"oneImage": "https://s.ndtvimg.com/images/entities/300/west-indies-2119.png",
+		"oneTeam": "West Indies",
+		"players": "Players: 18",
+		"caption": "Nicholas Pooran",
+		"oneclick": "https://www.cricbuzz.com/cricket-team/west-indies/10"
+	},
+	{
+		"oneImage": "https://cdn.countryflags.com/thumbs/zimbabwe/flag-round-250.png",
+		"oneTeam": "Zimbabwe",
+		"players": "Players: 18",
+		"caption": "Regis Chakabva",
+		"oneclick": "https://www.cricbuzz.com/cricket-team/zimbabwe/12"
+	}
+]
