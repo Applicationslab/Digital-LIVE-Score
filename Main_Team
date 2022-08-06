@@ -60,5 +60,12 @@
 		"players": "Players: 18",
 		"caption": "Regis Chakabva",
 		"oneclick": "https://www.cricbuzz.com/cricket-team/zimbabwe/12"
+	},
+	{
+		"oneImage": "https://cdn.countryflags.com/thumbs/afghanistan/flag-round-250.png",
+		"oneTeam": "Afghanistan",
+		"players": "Players: 18",
+		"caption": "Mohammad Nabi",
+		"oneclick": "https://www.cricbuzz.com/cricket-team/afghanistan/96"
 	}
 ]
